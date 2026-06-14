@@ -1,8 +1,6 @@
-### Course Module
-**Mobile Application Programming**
 
 ### Lab Description
-This lab exercises the implementation of modern declarative user interfaces on the Android platform. The primary focus of this assignment is learning how to build and structure UI layouts using **Jetpack Compose** components, managing structural component arrangements and applying cohesive styles using Material Design guidelines.
+This lab 1 exercises the implementation of modern declarative user interfaces on the Android platform. The primary focus of this assignment is learning how to build and structure UI layouts using **Jetpack Compose** components, managing structural component arrangements and applying cohesive styles using Material Design guidelines.
 
 ### Implementation Features
 * Core layout construction using Composable functions (`@Composable`).
